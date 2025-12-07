@@ -77,11 +77,12 @@ ul li a{
     bottom: 20px;
     left: 50%;
     transform: translateX(-50%);
-    
 }
 
 .icons img{
     width: 40px;
+    transition: 0.5s;
+    cursor: pointer;
 }
 
 .icons img:hover{
